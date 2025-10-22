@@ -312,6 +312,8 @@
     <string name="label_bit_rate">Bitrate</string>
     <string name="label_sampling_rate">Sampling rate</string>
     <string name="replay_gain">ReplayGain</string>
+    <string name="pause_zero">Pause On Zero</string>
+    <string name="pause_zero_description">Pauses playback automaticly when the volume is at zero, additionally resumes playback when the volume goes above zero.</string>
     <string name="comment">Comment</string>
     <string name="last_played">Last played</string>
     <string name="played">Played</string>
